@@ -1,1 +1,1 @@
-Git is a version control system
+GGit is a version control system
